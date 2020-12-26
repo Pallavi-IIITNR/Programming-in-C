@@ -16,17 +16,5 @@ int main()
     printf("temperature in centigrade%f",c);
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     return 0;
 }
